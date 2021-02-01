@@ -1,0 +1,128 @@
+html {
+    height: 100%;
+}
+
+
+body{
+    font-family: sans-serif
+        
+    margin: 0;
+    padding: 0px;
+    width: 100%;
+    height: 50%;
+    background-color: deeppink;
+}
+
+
+
+#t1{
+    position: fixed;
+    left: 200px;
+    top: 0px;
+    height: 10px;
+}
+
+#t2{
+    position: absolute;
+    left: 200px;
+    top: 0px;
+    height: 5px;
+}
+
+#t3{
+    position: absolute;
+    left: 400px;
+    top: 0px;
+}
+
+#t4{
+    position: absolute;
+    left: 0px;
+    top: 200px;
+}
+
+#t5{
+    position: absolute;
+    left: 200px;
+    top: 200px;
+}
+
+#t6{
+    position: absolute;
+    left: 400px;
+    top: 200px;
+}
+
+#t7{
+    position: absolute;
+    left: 0px;
+    top: 400px;
+}
+
+#t8{
+    position: absolute;
+    left: 200px;
+    top: 400px;
+}
+
+#t9{
+    position: absolute;
+    left: 400px;
+    top:400px;
+}
+
+
+#t10{
+    position: absolute;
+    left: 750px;
+    top: 0;
+}
+
+#t11{
+    position: absolute;
+    left: 900px;
+    top: 0;
+}
+
+#t12{
+    position: absolute;
+    left: 1050px;
+    top: 0;
+}
+
+#t13{
+    position: absolute;
+    left: 750px;
+    top: 170px;
+}
+
+#t14{
+    position: absolute;
+    left: 960px;
+    top: 280px;
+}
+
+#t15{
+    position: absolute;
+    left: 1100px;
+    top: 260px;
+}
+
+
+#t16{
+    position: absolute;
+    left: 700px;
+    top: 310px;
+}
+
+#img3-2-draggable{
+    position: absolute;
+    left: 900px;
+    top: 220px;
+}
+
+#img3-3-draggable{
+    position: absolute;
+    left: 1100px;
+    top: 440px;
+}
